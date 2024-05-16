@@ -1,0 +1,23 @@
+git clone https://github.com/ingdanielj0816/pruebakuepa
+
+```
+
+```
+
+cd chat-client
+
+```
+
+```
+
+npm install
+
+```
+
+```
+
+npm run dev
+
+```
+
+```
